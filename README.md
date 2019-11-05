@@ -28,7 +28,7 @@ $ npm install
 Client runs on port 8000
 ```
 $ cd client
-$ gatsby develop
+$ npm run build
 ```
 
 ### To run server side
